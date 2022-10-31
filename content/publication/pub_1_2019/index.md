@@ -10,7 +10,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2019-08-18"
-doi: "https://arxiv.org/abs/1908.06431"
+doi: 'https://arxiv.org/abs/1908.06431'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-03T18:45:54+08:00
