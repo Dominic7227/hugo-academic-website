@@ -75,7 +75,7 @@ social:
 highlight_name: true
 ---
 
-Guan'ao is a PhD student in the Department of Statistics of [University of California, Los Angeles](https://www.ucla.edu/), supervised by [Prof. Jingyi Li](http://jsb.ucla.edu/people/jingyi-jessica-li). His research interests include High Dimensional Statistics and Bioinformatics. He has accomplished his MSc degree at [Zhejiang University](https://www.zju.edu.cn/english/) and a BSc degree at [Shandong University](https://en.sdu.edu.cn/).
+Guan'ao is a PhD student in the Department of Statistics of [University of California, Los Angeles](https://www.ucla.edu/), supervised by [Prof. Jingyi Jessica Li](http://jsb.ucla.edu/people/jingyi-jessica-li). His research interests include High Dimensional Statistics and Bioinformatics. He has accomplished his MSc degree at [Zhejiang University](https://www.zju.edu.cn/english/) and a BSc degree at [Shandong University](https://en.sdu.edu.cn/).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
