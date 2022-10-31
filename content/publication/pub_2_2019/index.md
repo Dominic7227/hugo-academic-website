@@ -7,7 +7,7 @@ authors:
 - admin
 - Yi Zhang
 date: "2021-03-11"
-doi: "https://link.springer.com/article/10.1007/s00362-021-01227-2"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-03T18:45:59+08:00
@@ -46,7 +46,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://link.springer.com/article/10.1007/s00362-021-01227-2
 url_video:
 
 # Featured image

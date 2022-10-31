@@ -48,9 +48,9 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://arxiv.org/abs/1908.06431
 url_video:
-url_custom: [{name = "DOI", url="https://arxiv.org/abs/1908.06431"}]
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

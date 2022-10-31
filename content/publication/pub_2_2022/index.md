@@ -8,7 +8,7 @@ authors:
 - admin
 - Lixin Zhang
 date: "2022-05-21"
-doi: "https://link.springer.com/article/10.1007/s00184-022-00866-1"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-03T18:46:16+08:00
@@ -46,7 +46,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://link.springer.com/article/10.1007/s00184-022-00866-1
 url_video:
 
 # Featured image

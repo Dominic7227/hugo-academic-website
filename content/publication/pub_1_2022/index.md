@@ -6,7 +6,7 @@ authors:
 - admin
 - Jingyi Jessica Li
 date: "2022-05-31"
-doi: "https://www.biorxiv.org/content/10.1101/2022.05.29.493924v1"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-03T18:46:16+08:00
@@ -40,12 +40,12 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://www.biorxiv.org/content/10.1101/2022.05.29.493924v1
-url_code: https://screadsim.readthedocs.io/en/latest/
+url_code: https://github.com/JSB-UCLA/scReadSim
 url_dataset:
 url_poster:
-url_project:
+url_project: https://screadsim.readthedocs.io/en/latest/
 url_slides:
-url_source: https://github.com/JSB-UCLA/scReadSim
+url_source: https://www.biorxiv.org/content/10.1101/2022.05.29.493924v1
 url_video:
 
 # Featured image

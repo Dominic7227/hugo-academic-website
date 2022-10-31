@@ -13,7 +13,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2021-04-12"
-doi: "https://www.nature.com/articles/s41467-021-22495-4"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-03T18:46:16+08:00
@@ -51,7 +51,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.nature.com/articles/s41467-021-22495-4
 url_video:
 
 # Featured image
