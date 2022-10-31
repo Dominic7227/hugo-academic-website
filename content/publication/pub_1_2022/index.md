@@ -2,7 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "scReadSim: a single-cell RNA-seq and ATAC-seq read simulator"
-authors: []
+authors:
+- admin
+- Jingyi Jessica Li
 date: "2022-05-31"
 doi: "https://www.biorxiv.org/content/10.1101/2022.05.29.493924v1"
 
@@ -16,7 +18,7 @@ publishDate: 2020-08-03T18:46:16+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*bioRxiv"
 publication_short: ""
 
 abstract: "Rapid advances of single-cell RNA-seq and ATAC-seq technologies have propelled the development of many computational tools, benchmarking of which demands realistic simulators. However, few simulators can generate sequencing reads, and none of existing read simulators aim to mimic real cells, hindering the benchmarking of low-level computational tools that process reads. To fill this gap, we propose scReadSim, a single-cell RNA-seq and ATAC-seq read simulator that generates synthetic cells which mimic real cells. Trained on real data, scReadSim can generate synthetic data in FASTQ and BAM formats. By deploying scReadSim on sci-ATAC-seq and 10x Multiome (ATAC+RNA) data, we show that the scReadSim synthetic data resemble real data at both read and count levels. Moreover, as a flexible simulator, scReadSim enables users to arbitrarily specify open chromatin regions for the synthetic scATAC-seq reads, and is also capable of allowing varying the cell number and sequencing depths for the synthetic data.

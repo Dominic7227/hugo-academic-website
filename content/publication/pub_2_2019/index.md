@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Robust estimation and shrinkage in ultrahigh dimensional expectile regression with heavy tails and variance heterogeneity"
-authors: []
+authors:
+- Jun Zhao
+- admin
+- Yi Zhang
 date: "2021-03-11"
 doi: "https://link.springer.com/article/10.1007/s00362-021-01227-2"
 
@@ -16,7 +19,7 @@ publishDate: 2020-08-03T18:45:59+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Statistical Papers*"
 publication_short: ""
 
 abstract: "High-dimensional data subject to heavy-tailed phenomena and heterogeneity are commonly encountered in various scientific fields and bring new challenges to the classical statistical methods. In this paper, we combine the asymmetric square loss and huber-type robust technique to develop the robust expectile regression for ultrahigh dimensional heavy-tailed heterogeneous data. Different from the classical huber method, we introduce two different tuning parameters on both sides to account for possibly asymmetry and allow them to diverge to reduce bias induced by the robust approximation. In the regularized framework, we adopt the generally folded concave penalty function like the SCAD or MCP penalty for the seek of bias reduction. We investigate the finite sample property of the corresponding estimator

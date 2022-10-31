@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -32,6 +32,11 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
   view: citation
   columns: '2'
 ---

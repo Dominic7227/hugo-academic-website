@@ -2,7 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "RA3 is a reference-guided approach for epigenetic characterization of single cells"
-authors: []
+authors:
+- Shengquan Chen
+- admin
+- Wenyu Zhang
+- Jinzhao Li
+- Rui Jiang
+- Zhixiang Lin
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2021-04-12"
 doi: "https://www.nature.com/articles/s41467-021-22495-4"
 
@@ -16,7 +25,7 @@ publishDate: 2020-08-03T18:46:16+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Nature communications*"
 publication_short: ""
 
 abstract: "The recent advancements in single-cell technologies, including single-cell chromatin accessibility sequencing (scCAS), have enabled profiling the epigenetic landscapes for thousands of individual cells. However, the characteristics of scCAS data, including high dimensionality, high degree of sparsity and high technical variation, make the computational analysis challenging. Reference-guided approach, which utilizes the information in existing datasets, may facilitate the analysis of scCAS data. We present RA3 (Reference-guided Approach for the Analysis of single-cell chromatin Acessibility data), which utilizes the information in massive existing bulk chromatin accessibility and annotated scCAS data. RA3 simultaneously models 1) the shared biological variation among scCAS data and the reference data, and 2) the unique biological variation in scCAS data that identifies distinct subpopulations. We show that RA3 achieves superior performance in many scCAS datasets. We also present several approaches to construct the reference data to demonstrate the wide applicability of RA3."
