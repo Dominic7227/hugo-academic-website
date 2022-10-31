@@ -10,7 +10,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2019-08-18"
-doi: 'https://arxiv.org/abs/1908.06431'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-03T18:45:54+08:00
@@ -50,7 +50,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-
+url_custom: [{name = "DOI", url="https://arxiv.org/abs/1908.06431"}]
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
